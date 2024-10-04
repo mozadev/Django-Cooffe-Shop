@@ -1,0 +1,18 @@
+// {
+//     "editor.formatOnSave": true,
+//     "notebook.formatOnSave.enabled": true
+// } // {
+//   "python.formatting.provider": "black", 
+//   "python.formatting.blackArgs": ["--line-length", "77"],
+//   "editor.formatOnSave": true,
+//   "editor.codeActionsOnSave": {
+//     "source.organizeImports": "explicit"
+//   },
+//   "python.linting.enabled": true,
+//   "python.linting.flake8Enabled": true,
+//   "python.linting.flake8Args": ["--max-line-length=77"],
+//   "[python]": {
+//       "editor.defaultFormatter": "ms-python.black",
+//       "editor.formatOnSave": true
+//   }
+// }
